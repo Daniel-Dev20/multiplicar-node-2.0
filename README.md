@@ -11,3 +11,12 @@ Options:
   -h, --hasta    Hasta que número llegara la tabla                      [number]
 
   ```
+
+  Instalar las siguientes dependencias
+
+  ```
+    npm install
+    npm install yargs
+    npm install colors
+
+  ```
